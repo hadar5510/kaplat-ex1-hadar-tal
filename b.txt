@@ -1,1 +1,2 @@
 the b text file
+edit of b file
