@@ -1,2 +1,3 @@
 a text file a
 edit of a file
+this is edit of c6
